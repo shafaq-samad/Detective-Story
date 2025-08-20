@@ -62,7 +62,7 @@ Example:
   - `Location`  
   - `GameManager`  
 
----# 🔮 Future Improvements
+## 🔮 Future Improvements
 - Add animations and sound effects.  
 - Introduce more suspects and branching storylines.  
 - Save/Load game functionality.  
