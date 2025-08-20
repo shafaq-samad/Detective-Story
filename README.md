@@ -62,9 +62,10 @@ Example:
   - `Location`  
   - `GameManager`  
 
+---# 🔮 Future Improvements
+- Add animations and sound effects.  
+- Introduce more suspects and branching storylines.  
+- Save/Load game functionality.  
+- Difficulty levels (Easy, Medium, Hard).  
+
 ---
-🔮 Future Improvements
-Add animations and sound effects.
-Introduce more suspects and branching storylines.
-Save/Load game functionality.
-Difficulty levels (Easy, Medium, Hard).me/DetectiveGame.git
